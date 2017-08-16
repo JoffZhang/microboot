@@ -8,12 +8,13 @@
 *.iws
 *.pyc
 *.pyo
-.idea/
+.idea/*
 .idea_modules/
 */target/*
 *generatorConfig.xml
 output/*
 *.log
+*.springBeans
 
 #ignore thumbnails created by windows
 Thumbs.db
